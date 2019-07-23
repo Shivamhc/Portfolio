@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+}
+
+.strengthHeading {
+  padding-top: 60px;
+  font-size: 50px;
+  color: #2b2725;
+}
+.strengthHeading:after {
+  display: block;
+  height: 2px;
+  background-color: #e67e22;
+  content: " ";
+  width: 100px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.columnStr {
+  padding-top: 35px;
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.rowStrength:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#icon {
+  margin-top: 55px;
+  font-size: 80px;
+  color: #e07511;
+}
+.fontHeadings {
+  padding-top: 15px;
+  line-height: 35px;
+  font-size: 25px;
+  color: #3d3228;
+}
+.fontAbout {
+  padding-top: 3px;
+  font-size: 18px;
+  color: #63605d;
+  word-spacing: 3px;
+}
+.fontAbout a {
+  text-decoration: none;
+  color: #63605d;
+  font-style: italic;
+  font-size: 26px;
+  font-weight: bold;
+}
+.fontAbout a:hover {
+  color: #e07511;
+  text-shadow: black;
+}
+
+@media screen and (max-width: 996px) {
+  .columnStr {
+    padding-top: 35px;
+    float: left;
+    width: 50%;
+  }
+}
+@media screen and (max-width: 886px) {
+  .columnStr {
+    width: 100%;
+  }
+}

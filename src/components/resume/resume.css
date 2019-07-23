@@ -1,0 +1,33 @@
+.resumeContainer {
+  background-color: #4b4746;
+  margin-top: 80px;
+  height: 50vh;
+  padding: 50px 50px 50px 50px;
+  color: rgb(243, 232, 232);
+}
+h2 {
+  font-size: 28px;
+}
+button {
+  margin-top: 40px;
+  border-radius: 2rem;
+}
+.downloadResume {
+  display: inline-block;
+  color: #302c2b;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 10px 8px 10px 8px;
+  border: none;
+  cursor: pointer;
+}
+.downloadResume a {
+  text-decoration: none;
+  color: #302c2b;
+}
+.downloadResume:hover,
+.downloadResume a:hover {
+  color: rgb(243, 232, 232);
+  background-color: #e07312;
+  transition: background-color 0.3s, border 0.2s, color 0.2s;
+}

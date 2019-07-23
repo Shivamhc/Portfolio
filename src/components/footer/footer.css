@@ -1,0 +1,30 @@
+footer {
+  margin: 80px;
+}
+.footerHeading {
+  color: #c46710;
+}
+
+.footerFooter {
+  margin: 0 auto;
+}
+.footerFooter a i {
+  margin: 0px 80px 60px 80px;
+  padding-top: 50px;
+  font-size: 50px;
+}
+#linkedin {
+  color: #0077b5;
+}
+#gmail {
+  color: #dd4638;
+}
+#github {
+  color: #333;
+}
+.copyright {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: #e07511;
+  color: #000000;
+}
