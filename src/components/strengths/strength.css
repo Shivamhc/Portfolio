@@ -47,13 +47,12 @@
 }
 .fontAbout a {
   text-decoration: none;
-  color: #63605d;
+  color: #c76910;
   font-style: italic;
   font-size: 26px;
   font-weight: bold;
 }
 .fontAbout a:hover {
-  color: #e07511;
   text-shadow: black;
 }
 
