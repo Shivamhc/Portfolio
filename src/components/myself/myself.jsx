@@ -11,9 +11,9 @@ class Myself extends Component {
         <div className="row">
           <div className="column">
             <div className="myselfPara">
-              Hi! I am Shivam Sharma. I am a 3rd-year undergraduate student,
-              currently pursuing Bachelor Of Technology in Computer Science from
-              Shri Mata Vaishno Devi University, Katra. I am a fast learner. I
+              Hi! I am Shivam Sharma. I am a first yesar post-graduate student,
+              currently pursuing Master Of Technology in Computer Science from
+              Delhi Technological University, Delhi.<br> I am a fast learner. I
               always look for opportunities to learn , to upgrade my knowledge.I
               keep going because I believe in myself. I can reach out for help
               if I need it.I understand how precious time is that is why I do
