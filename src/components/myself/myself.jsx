@@ -11,13 +11,12 @@ class Myself extends Component {
         <div className="row">
           <div className="column">
             <div className="myselfPara">
-              Hi! I am Shivam Sharma. I am a first yesar post-graduate student,
+              Hi! I am Shivam Sharma. I am a second year post-graduate student,
               currently pursuing Master Of Technology in Computer Science from
               Delhi Technological University, Delhi.<br> I am a fast learner. I
               always look for opportunities to learn , to upgrade my knowledge.I
               keep going because I believe in myself. I can reach out for help
-              if I need it.I understand how precious time is that is why I do
-              not waste chances given to me.I look for positivity in all things.
+              if I need it.I look for positivity in all things.
             </div>
           </div>
           <div className="column">
