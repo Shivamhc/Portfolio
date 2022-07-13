@@ -14,8 +14,7 @@ class Welcome extends Component {
           <div className="welcomeName">Hi! I am Shivam Sharma</div>
 
           <div className="welcomePortfolio">
-            Welcome to my portfolio. I am a front-end web developer and I build
-            web-applications using html,css,bootstrap and reactjs.
+            Welcome to my portfolio.
           </div>
         </div>
         <Myself />
